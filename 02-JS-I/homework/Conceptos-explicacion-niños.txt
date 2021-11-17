@@ -1,0 +1,7 @@
+Conceptos
+
+VARIABLE: Es como una caja donde podemos almacenar cualquier cosa
+STRING: Es una fila de letras o numeros
+FUNCIONES: Es como una licuadora debemos agregarle una frutas (argumentos) para que nos haga un licuado de frutas(return)
+DECLARACIONES IF: Realizamos una accion solo si cumplis con la condicion
+VALORES BOLEANOS: es como VERDADERO o FALSO, ENCENDIDO o APAGADO
