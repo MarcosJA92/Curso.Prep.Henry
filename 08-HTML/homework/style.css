@@ -1,3 +1,19 @@
+.vertical-container {
+    height: auto;
+    display: -webkit-flex;
+    display:         flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+  }
+body {
+    background-image: url(https://www.hola.com/imagenes/cocina/noticiaslibros/20210209183991/dia-mundial-pizza-recetas/0-917-728/dia-pizza-m.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 h1 {
     color: brown;
 }
@@ -14,4 +30,8 @@ img {
 #spanId {
     font-size: 18px;
     margin: 50px;
+}
+
+div{
+    text-align: center;
 }

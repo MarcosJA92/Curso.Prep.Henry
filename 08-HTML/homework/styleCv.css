@@ -1,0 +1,57 @@
+.main-title {
+    text-align: center;
+    color: black;
+    font-style: italic;
+}
+.indiceList {
+    list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: cornflowerblue;
+    border-style: double;
+    font-style: oblique;
+    margin: 0;
+    
+}
+.indiceList:hover {
+    background-color: black;
+}
+.flex-container {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.itemIndex {
+    width: 80%;
+    padding: 20px;
+}
+nav {
+    width: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: black;
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    color: white;
+    background-image: url('https://eskipaper.com/images/background-images-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div {
+    background-color: darkcyan;
+    border-style: groove;
+    border-radius: 3%;
+}
+img {
+    border-radius: 50%;
+}
